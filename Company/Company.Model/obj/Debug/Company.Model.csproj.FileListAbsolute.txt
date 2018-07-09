@@ -9,3 +9,14 @@ C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\EntityFramework.xml
 C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
 C:\Users\11478\Desktop\Company\Company.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\Company.Model.dll.config
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\Company.Model.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\Company.Model.pdb
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\EntityFramework.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\EntityFramework.xml
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\obj\Debug\Company.Model.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.Model\obj\Debug\Company.Model.pdb

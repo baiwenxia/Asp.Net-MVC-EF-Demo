@@ -8,3 +8,13 @@ C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\EntityFramework.dll
 C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\Company.Model.pdb
 C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\EntityFramework.xml
 C:\Users\11478\Desktop\Company\Company.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\bin\Debug\Company.IBLL.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\bin\Debug\Company.IBLL.pdb
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\bin\Debug\Company.Model.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\bin\Debug\EntityFramework.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\bin\Debug\Company.Model.pdb
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\bin\Debug\EntityFramework.xml
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\obj\Debug\Company.IBLL.csprojResolveAssemblyReference.cache
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\obj\Debug\Company.IBLL.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IBLL\obj\Debug\Company.IBLL.pdb

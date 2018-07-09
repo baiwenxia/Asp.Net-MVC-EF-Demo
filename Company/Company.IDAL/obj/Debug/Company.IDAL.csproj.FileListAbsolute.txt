@@ -8,3 +8,13 @@ C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\EntityFramework.dll
 C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\Company.Model.pdb
 C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\EntityFramework.xml
 C:\Users\11478\Desktop\Company\Company.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\bin\Debug\Company.IDAL.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\bin\Debug\Company.IDAL.pdb
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\bin\Debug\Company.Model.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\bin\Debug\EntityFramework.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\bin\Debug\Company.Model.pdb
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\bin\Debug\EntityFramework.xml
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\obj\Debug\Company.IDAL.csprojResolveAssemblyReference.cache
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\obj\Debug\Company.IDAL.dll
+E:\VSProject\GitTest\Asp.Net-MVC-EF-Demo\Company\Company.IDAL\obj\Debug\Company.IDAL.pdb
